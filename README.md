@@ -1,3 +1,13 @@
+# Проект SpotifyStats. Первая часть проекта переписанная на TS. 
+
+Дальнешие коммиты будут улучшать/добавлять функционал
+Для начала необходимо установить зависимости:
+
+### `npm instal`
+
+Далее идет документация React-create-app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
